@@ -1,0 +1,24 @@
+{
+  "name": "1-rahul---farm",
+  "version": "1.0.0",
+  "description": "organic online farm project to deliver at home",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulxpro/Rahul-farm.git"
+  },
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulxpro/Rahul-farm/issues"
+  },
+  "homepage": "https://github.com/Rahulxpro/Rahul-farm#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "save-dev": "^0.0.1-security",
+    "slugify": "^1.6.5"
+  }
+}
